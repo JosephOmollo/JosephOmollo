@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Joseph Omollo 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Software+Developer;Python+Enthusiast;Problem+Solver;C%2B%2B+Developer;Open+to+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Electrical+Engineering+Student;Python+Enthusiast;Problem+Solver;C%2B%2B+Developer;Technology+Driven+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,29 +17,29 @@
 
 ## About Me
 
-I am a passionate and growing software developer with interest in problem solving, data structures, algorithms, and practical software engineering. I enjoy building projects that combine logic, design, and useful functionality.
+I am currently pursuing a BSc in Electrical and Electronics Engineering at the University of Nairobi, while building my practical skills in software development, problem solving, and technology-driven engineering.
 
-My current focus is on:
-- Python development
-- C++ application development
-- Algorithms and data structures
-- Academic and real-world software problem solving
-- Building projects that demonstrate technical growth and creativity
+My interests sit at the intersection of:
+- Electrical and electronics engineering
+- Software and systems thinking
+- Problem solving and technical design
+- Python and C++ development
+- Building solutions that connect engineering concepts with real-world applications
 
-I am especially interested in opportunities where I can continue learning, contribute to meaningful projects, and apply my technical skills in real-world environments.
+I enjoy learning through projects, especially those that demonstrate logic, design, and technical creativity. My goal is to strengthen my engineering foundation while developing useful software skills that complement my academic journey and future career.
 
 ---
 
 ## Featured Projects
 
 ### 1) Python Portfolio
-A growing collection of Python projects demonstrating core programming fundamentals, problem solving, and practical scripting.
+A growing collection of Python projects demonstrating programming fundamentals, logic, and practical problem solving.
 
 - Repository: https://github.com/JosephOmollo/PythonProject
-- Skills showcased: Python, logic building, data handling, OOP, problem solving
+- Skills showcased: Python, logic building, OOP, problem solving, scripting
 
 ### 2) Student Course Prerequisite Checker
-A C++ console-based university course planning and prerequisite validation system created as a second-year project at the University of Nairobi.
+A C++ console-based academic planning system designed to model university course prerequisites, graduation checks, and schedule planning.
 
 - Repository: https://github.com/JosephOmollo/Student_Course_Prerequisite_Checker
 - Skills showcased: C++, data structures, graph algorithms, academic planning, software design
@@ -57,31 +57,33 @@ A C++ console-based university course planning and prerequisite validation syste
 - Algorithms
 - Object-Oriented Programming
 - Graph Theory
-- Academic Planning Systems
 - Problem Solving
-- Software Design
+- Engineering Thinking
+- Software Development Fundamentals
+- Academic and Technical Project Design
 
 ---
 
 ## Education & Project Context
 
-I am a second-year student at the University of Nairobi, where I have developed and refined my software engineering skills through academic projects and hands-on programming work.
+I am currently enrolled in the Bachelor of Science in Electrical and Electronics Engineering at the University of Nairobi. My academic journey is complemented by independent projects and technical exploration in software development and computational problem solving.
 
-My projects reflect a practical understanding of:
-- Break down complex problems into manageable components
-- Build functional applications from structured requirements
-- Use algorithms to solve real-world planning and validation challenges
-- Create portfolio work that demonstrates growth, discipline, and technical readiness
+These projects reflect my ability to:
+- understand technical requirements
+- design structured solutions
+- apply logic and algorithms to real challenges
+- build useful portfolio work while continuing to learn across engineering disciplines
 
 ---
 
 ## Goals
 
-I am actively building my technical foundation and seeking opportunities to:
-- contribute to software projects
-- collaborate with developers and teams
-- continue learning in software engineering and technology
-- grow into impactful roles in software development and problem solving
+I am building a strong foundation in both engineering and technology, with interest in:
+- software development
+- automation and systems
+- intelligent/problem-solving applications
+- learning technologies that enhance engineering work
+- contributing to impactful technical projects
 
 ---
 
