@@ -65,7 +65,7 @@ A C++ console-based university course planning and prerequisite validation syste
 
 ## Education & Project Context
 
-I am a third-year student at the University of Nairobi, where I have developed and refined my software engineering skills through academic projects and hands-on programming work.
+I am a second-year student at the University of Nairobi, where I have developed and refined my software engineering skills through academic projects and hands-on programming work.
 
 My projects reflect a practical understanding of:
 - Break down complex problems into manageable components
